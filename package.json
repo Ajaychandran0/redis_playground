@@ -1,0 +1,16 @@
+{
+  "name": "redis_playground",
+  "version": "1.0.0",
+  "description": "This project is to play with different redis data types and visualize it using different UI tools like redis-commander or redis-insight",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node publisher.js"
+  },
+  "author": "Ajay",
+  "license": "ISC",
+   "dependencies": {
+    "redis": "^4.6.7",
+    "dotenv": "^16.3.1"
+  }
+}
