@@ -136,10 +136,4 @@ Then open **RedisInsight** or **Redis Commander** to inspect data visually.
 
 ---
 
-## 📜 License
-
-MIT
-
----
-
 Happy Redis Hacking! 🧠⚡
